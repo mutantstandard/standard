@@ -8,4 +8,4 @@ Not all Mutant Standard emoji have encodings - PUA or otherwise, and currently P
 
 PUA encodings in Unicode are inherently non-standard, there may be collisions that exist. There are also accessibility concerns too. Please take these into consideration when using any PUA encoding.
 
-While Mutant Standard symbols are copyleft, this Private Use Area standard is freely available.
+While Mutant Standard symbols are copyleft, this Private Use Area standard is licensed MIT.
