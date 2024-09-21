@@ -8,6 +8,7 @@ While Mutant symbols are copyleft, these documents are licensed MIT.
 
 ## Overview
 - [Terms](terms.md)
+- [Bundles](bundles.md)
 
 ## Modifiers
 - [Overview](modifiers/overview.md)
