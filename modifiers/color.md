@@ -91,11 +91,3 @@ Most of these modifiers are based on a 13-point hue wheel that is not consistent
 ## Default colour
 In most other emoji sets, the default colour of unmodified emoji is yellow, however, because of the white-coded nature of yellow, Mutant opts for a medium grey, the same shade as K2.
 
-
-## Mixing with Morph Modifiers
-As the name implies, Arbitrary CMs are intended to work with any Morph Modifier. For cultural reasons, Human CMs are limited to only human hand appearances. For users seeking a brown colour on a non-human morph, they can use the E series of colours instead.
-
-| CM group | Morph usages |
-| ---- | ---- |
-| Human (Hx) | Human only (hmn) |
-| Arbitrary | All |
