@@ -15,17 +15,17 @@ If you see a shortcode in Mutant documentation, the only guarantee that you have
 
 
 ## ZWJ
-Stands for **zero-width joiner**. It is an invisible character that contextually joins the characters on either side.
+**Zero-width joiner**. It is an invisible character that contextually joins the characters on either side.
 
 This was originally developed for scripts such as Arabic or Indic scripts, but this has also been used in emoji. In emoji it generally means 'take these two symbols and combine them into a single new symbol'. They are often used to make certain symbols look a bit more backwards compatible to devices that don't support the emoji in question.
 
-In Unicode, the codepoint for a ZWJ is `200d`. To make ZWJs semantically obvious, documentation in Mutant often uses '\[ZWJ]' in place of `200d` when outlining codepoint sequences.
+In Unicode, the codepoint for a ZWJ is `200d`. To make ZWJs semantically obvious, documentation in Mutant often uses `\[ZWJ]` in place of `200d` when outlining codepoint sequences.
 
 [More information on ZWJs from Wikipedia](https://en.wikipedia.org/wiki/Zero-width_joiner)
 
 
 ## VS16
-VS16 stands for **Variation Selector 16**.
+**Variation Selector 16**.
 
 In Unicode, a Variation Selector indicates how a character should be depicted. There are 16 different Variation Selectors. Number 16 indicates that the character before is supposed to be an emoji.
 
@@ -36,8 +36,8 @@ VS16 is generally used to convert symbols that existed before emoji into emoji. 
 | Heavy Black Heart | `2764` | ❤ |
 | Heavy Black Heart (as emoji) | `2764 fe0f` | ❤ |
 
-Variation Selectors are contentious in Emoji, with various systems stripping or disregarding this codepoint wherever present. Mutant's current position is that VS16 should be used wherever specified in the Unicode standard.
+Variation Selectors are contentious in Emoji, with various systems stripping or disregarding this codepoint wherever present. Depending on how GitHub works and how your computer works, you may see the two symbols above in the same way or in different ways. Mutant's current position is that VS16 should be used wherever specified in the Unicode standard.
 
-The codepoint for VS16 is `fe0f`. To make VS16 semantically obvious, documentation in Mutant often uses '\[VS16]' in place of `fe0f` when outlining codepoint sequences.
+The codepoint for VS16 is `fe0f`. To make VS16 semantically obvious, documentation in Mutant often uses `\[VS16]` in place of `fe0f` when outlining codepoint sequences.
 
 [More information on Variation Selectors from Wikipedia](https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block))

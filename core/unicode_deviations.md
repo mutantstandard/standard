@@ -49,8 +49,7 @@ These are symbols in the Unicode Standard that are not *Recommended for General 
 | 26a4 \[VS16] | Interlocked Female and Male Sign (⚤) |
 | 26a5 \[VS16] | Male and Female Sign (⚥) |
 | 26a6 \[VS16] | Male with Stroke Sign (⚦) |
-| 26a7 \[VS16] | Male with Stroke and Male and Female Sign |
-(⚧)
+| 26a7 \[VS16] | Male with Stroke and Male and Female Sign (⚧) |
 | 26a8 \[VS16] | Vertical Male with Stroke Sign (⚨) |
 | 26b2 \[VS16] | Neuter (⚲) |
 | 007e \[VS16] | Tilde (~) |
@@ -75,7 +74,7 @@ Family ZWJs are also not being made in Mutant. Instead, users will be encouraged
 | ---- | ---- | ---- |
 | a9 \[VS16] | Copyright sign | |
 | ae \[VS16] | Registered sign | |
-| 2122 \[VS16] Trade Mark
+| 2122 \[VS16] | Trade Mark | |
 | 1f46e | Police Officer (including all gender and skin tone modified variants) | |
 | 1f482 | Guard (including all gender and skin tone modified variants) | |
 | 1f693 | Police Car | |
