@@ -5,7 +5,7 @@ fundamental expression itself. These are primarily designed for hand emoji.**
 Morph Modifiers work just like skin tone modifiers - they are combined with a base expression
 to create a modified version of that expression.
 
-Morph Modifiers are exclusive to Mutant Standard. Unlike CMs, there is no analogous type of
+Morph Modifiers are exclusive to Mutant. Unlike CMs, there is no analogous type of
 encoding in the Unicode Standard.
 
 
@@ -17,7 +17,7 @@ encoding in the Unicode Standard.
 | 101652 | hoof | hoof hand |
 
 ## Humanoid hands (unmodified)
-Mutant Standard uses MMs to encode different types of hands (ie. paw hands and claw hands)
+Mutant uses MMs to encode different types of hands (ie. paw hands and claw hands)
 with the same expression. As with Unicode Standard emoji, the ‘base expression’ (thumbs up,
 V, fist, etc.) is assumed to be a humanoid hand by default, so in this way, MMs are a
 backwards-compatible extension to Unicode emoji.

@@ -1,6 +1,6 @@
 
 # Private Use Area (PUA)
-***Please note that as of right now, PUA development is frozen.***
+***Please note that as of right now, PUA development is frozen. No new PUA codepoints are being added or planned***
 
 Some of Mutant's unique emoji symbols and modifiers have been encoded in the SPUA planes, in block `1016xx`. This repository outlines what encodings have been made by the project in this area (and potentially subsequent blocks if `1016xx` is filled).
 
