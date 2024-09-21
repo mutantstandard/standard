@@ -53,9 +53,9 @@ Most of these modifiers are based on a 13-point hue wheel that is not consistent
 | 101609 | y1 | dark yellow |
 | 10160a | y2 | yellow |
 | 10160b | y3 | light yellow |
-| 10160c | l1 | dark lime |
-| 10160d | l2 | lime |
-| 10160e | l3 | light lime |
+| 10160c | l1 | dark yellow-green |
+| 10160d | l2 | yellow-green |
+| 10160e | l3 | light yellow-green |
 | 10160f | g1 | dark green |
 | 101610 | g2 | green |
 | 101611 | g3 | light green |
