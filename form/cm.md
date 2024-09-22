@@ -57,7 +57,7 @@ These hues are perceptually spaced to compensate for the abundance of green in h
 ### Brown (E) and Greyscale (K)
 The last 2 scales are dedicated to brown and greyscale.
 
-Note that there is no white or black - pure whites and blacks are difficult to display for any emoji design in any design context. It is expected that K1 and K3 can approximate white and black respectively.
+Note that there is no white or black - pure whites and blacks are difficult to display for any emoji design in any design context. It is expected that K1 and K3 can approximate black and white respectively.
 
 
 | Mutant codepoint (U+) | Mutant shortcode | Name/Description |
