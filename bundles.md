@@ -6,7 +6,7 @@ Mutant has emoji symbols designed to cater to different groups of people. Not ev
 
 
 ## The different bundles.
-**Mutant Core** is the only essential bundle - containing Mutant's unique perspective on standard, Unicode emoji. Other bundles from the set can then be added on for extra communicative functionality.
+**Mutant Core** is the only essential bundle - containing Mutant's unique perspective on Unicode Standard emoji. Other bundles from the set can then be added on for extra communicative functionality.
 
 ### Standard communication bundles
 - **Mutant Spectrum** - flags and symbols catering to the queer community.

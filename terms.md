@@ -1,20 +1,37 @@
 # Terms
 
+## name
+Every standard unicode codepoint has an assigned name. This is a line of text in English describing what this codepoint is. This name is essentially a very brief description of how to design your own version of that character for your own fonts.
+
+### Unicode name
+The name of a codepoint as it appears in the Unicode Standard.
+
+### Mutant name
+The name of a codepoint as it appears in Mutant's Standard. Mutant's use of codepoints and names follows Unicode's with some explicit deviations. When there is an explicit deviation, a non-standard sequence or involves Mutant's PUA, it has a **Mutant name**.
+
 ## codepoint
 A number (represented in hexadecimal) that represents a single block of data in Unicode text encoding. As long as it's not in the Private Use Area, codepoints are generally 1:1 consistent across platforms and systems (as long as it has the software updates and/or fonts to display the characters that are being encoded).
 
-Traditional notation for Unicode codepoints is to add "U+" and then the hexadecimal number (eg. 'U+2764`). To save space and make documentation to read, all Mutant documentation foregoes this prefix ('2764').
+Traditional notation for Unicode codepoints is to add "U+" and then the hexadecimal number (eg. 'U+2764`). To save space and make documentation to read, all Mutant documentation skips this prefix ('2764').
 
 Sometimes an emoji is just defined by one codepoint, but many are defined by a *sequence* of codepoints (eg. `2764` `fe0f`.)
 
+### Unicode codepoint
+The codepoint sequence as it appears in the Unicode Standard.
+
+### Mutant codepoint
+A *Private Use Area* or otherwise non-standard codepoint sequence made for Mutant's own standard.
+
+### Private Use Area (PUA)
+Unicode outlines sections of codepoints that are designated as 'private use' - this means anyone can claim them for their own non-standard encodings. Some of the largest historical use of PUAs has been used for scripts for constructed languages.
 
 ## shortcode 
 A string that represents an approachable and linguistic shorthand for people to input emoji in various platforms and software. Shortcodes are not universal across all emoji sets and/or platforms.
 
-If you see a shortcode in Mutant documentation, the only guarantee that you have is that it works in Mutant. (Though I often make shortcodes similar to other systems.)
+If you see a shortcode in Mutant documentation, the only guarantee that you have is that it works in Mutant. (Though, shortcodes are often made similar to other systems in practice, notably Discord.)
 
 
-# modifier
+## modifier
 
 In character encoding, a modifier changes the shape/presentation of an expression without changing the fundamental expression itself.
 
