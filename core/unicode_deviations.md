@@ -17,8 +17,8 @@ These are emoji that have specific changes in design from what is traditionally 
 
 | codepoint(s) (U+) | Unicode name | Notes |
 | ---- | ---- | ---- |
-| 1f6bb | Restroom | Practically all other emoji sets depict this as an abstract male and female figure next to each other. In Mutant, it should be a gender-neutral toiler sign. (Though not WC, which is its own emoji in Unicode.) |
-| 1f4fd | Film Projector | Instead of a cinema celluloid projector that is traditionally used, a home/consumer digital projector is used instead.
+| `1f6bb` | Restroom | Practically all other emoji sets depict this as an abstract male and female figure next to each other. In Mutant, it should be a gender-neutral toiler sign. (Though not WC, which is its own emoji in Unicode.) |
+| `1f4fd` | Film Projector | Instead of a cinema celluloid projector that is traditionally used, a home/consumer digital projector is used instead.
 
 -----
 
@@ -30,10 +30,10 @@ Instead of representing banknotes for the specific 4 top world reserve currencie
 
 | codepoint(s) (U+) | Unicode name | Mutant name |
 | ---- | ---- | ---- |
-| 1f4b4 | Banknote With Yen Sign | Yellow banknote |
-| 1f4b5 | Banknote With Dollar Sign | Green banknote |
-| 1f4b6 | Banknote With Euro Sign | Pink banknote |
-| 1f4b7 | Banknote With Pound Sign | Purple banknote |
+| `1f4b4` | Banknote With Yen Sign | Yellow banknote |
+| `1f4b5` | Banknote With Dollar Sign | Green banknote |
+| `1f4b6` | Banknote With Euro Sign | Pink banknote |
+| `1f4b7` | Banknote With Pound Sign | Purple banknote |
 
 ----
 
@@ -42,17 +42,17 @@ These are symbols in the Unicode Standard that are not *Recommended for General 
 
 | codepoint(s) | Unicode name |
 | ---- | ---- |
-| 2640 \[VS16] | Female Sign (♀) |
-| 2642 \[VS16] | Male Sign (♂ ) |
-| 26a2 \[VS16] | Doubled Female Sign (⚢) |
-| 26a3 \[VS16] | Doubled Male Sign (⚣) |
-| 26a4 \[VS16] | Interlocked Female and Male Sign (⚤) |
-| 26a5 \[VS16] | Male and Female Sign (⚥) |
-| 26a6 \[VS16] | Male with Stroke Sign (⚦) |
-| 26a7 \[VS16] | Male with Stroke and Male and Female Sign (⚧) |
-| 26a8 \[VS16] | Vertical Male with Stroke Sign (⚨) |
-| 26b2 \[VS16] | Neuter (⚲) |
-| 007e \[VS16] | Tilde (~) |
+| `2640` `[VS16]` | Female Sign (♀) |
+| `2642` `[VS16]` | Male Sign (♂ ) |
+| `26a2` `[VS16]` | Doubled Female Sign (⚢) |
+| `26a3` `[VS16]` | Doubled Male Sign (⚣) |
+| `26a4` `[VS16]` | Interlocked Female and Male Sign (⚤) |
+| `26a5` `[VS16]` | Male and Female Sign (⚥) |
+| `26a6` `[VS16]` | Male with Stroke Sign (⚦) |
+| `26a7` `[VS16]` | Male with Stroke and Male and Female Sign (⚧) |
+| `26a8` `[VS16]` | Vertical Male with Stroke Sign (⚨) |
+| `26b2` `[VS16]` | Neuter (⚲) |
+| `007e` `[VS16]` | Tilde (~) |
 
 ----
 
@@ -72,16 +72,16 @@ Family ZWJs are also not being made in Mutant. Instead, users will be encouraged
 ### Other characters and sequences
 | Codepoint(s) (U+) | Unicode name | Notes |
 | ---- | ---- | ---- |
-| a9 \[VS16] | Copyright sign | |
-| ae \[VS16] | Registered sign | |
-| 2122 \[VS16] | Trade Mark | |
-| 1f46e | Police Officer (including all gender and skin tone modified variants) | |
-| 1f482 | Guard (including all gender and skin tone modified variants) | |
-| 1f693 | Police Car | |
-| 1f694 | Oncoming Police Car | | 
-| 1f6b9 | Men’s Room | |
-| 1f6ba | Women’s Room | |
-| 1f6c2 | Passport Control | |
-| 1f6c3 | Customs | |
-| 1f3c7 | Horse Racing | | 
-| 1f5fe | Silhouette of Japan | |
+| `a9` `[VS16]` | Copyright sign | |
+| `ae` `[VS16]` | Registered sign | |
+| `2122` `[VS16]` | Trade Mark | |
+| `1f46e` | Police Officer (including all gender and skin tone modified variants) | |
+| `1f482` | Guard (including all gender and skin tone modified variants) | |
+| `1f693` | Police Car | |
+| `1f694` | Oncoming Police Car | | 
+| `1f6b9` | Men’s Room | |
+| `1f6ba` | Women’s Room | |
+| `1f6c2` | Passport Control | |
+| `1f6c3` | Customs | |
+| `1f3c7` | Horse Racing | | 
+| `1f5fe` | Silhouette of Japan | |

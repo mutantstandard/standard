@@ -31,4 +31,8 @@ Modifiers, symbols and expressions catering to furries and those who use non-hum
 ## PUA (Private Use Area)
 What PUA encodings Mutant uses.
 - [Overview](pua/overview.md)
-- [10160x - 10164x Color Modifiers](pua/10160x_10164x_cm.md)
+- [10160x - 10164x: Color Modifiers](pua/10160x_10164x_cm.md)
+- [10165x: Morphology Modifiers](pua/10165x_mm.md)
+- [10166x: Nonhumans](pua/10166x._nonhumans.md)
+- [10167x - 10168x: Gender, Sexuality and Relationships](pua/10167x_10168x_gsr.md)
+- [10169x: Objects, Symbols and Expressions](pua/10169x_objects_symbols.md)
