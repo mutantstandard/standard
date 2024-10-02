@@ -21,6 +21,7 @@ The core set which other bundles can potentially into.
 #### Mutant Spectrum
 The bundle that focuses on symbols and expressions for the queer community.
 - [Non-standard ZWJs](spectrum/non_standard_zwj.md)
+- [Aliases](spectrum/aliases.md)
 
 #### Mutant Form
 Modifiers, symbols and expressions catering to furries and those who use non-human representations of themselves.

@@ -76,4 +76,4 @@ As the name implies, Arbitrary CMs are intended to work with any Morph Modifier.
 | CM group | Morph usages |
 | ---- | ---- |
 | Human (Hx) | Human only (hmn) |
-| Arbitrary | All |
+| All other CMs | All |
