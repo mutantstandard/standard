@@ -6,7 +6,7 @@ The original descriptions of these skin tones was based on the Fitzpatrick scale
 
 Note that because of the way Mutant notes the lightness of a colour, the shortcodes run in the opposite order to the codepoints. When implementing these in an interface, follow the shortcode order (h1-h5).
 
-| codepoint (U+) | Mutant shortcode | Name/Description |
+| Unicode codepoint (U+) | Mutant shortcode | Mutant name |
 | ---- | ---- | ---- |
 | 1f3fb | h5 | light skin tone |
 | 1f3fc | h4 | medium-light skin tone |
