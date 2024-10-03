@@ -70,7 +70,7 @@ Family ZWJs are also not being made in Mutant. Instead, users will be encouraged
 
 ### Other characters and sequences
 | Codepoint(s) (U+) | Unicode name |
-| ---- | ---- | ---- |
+| ---- | ---- |
 | `a9` `[VS16]` | Copyright sign | 
 | `ae` `[VS16]` | Registered sign | 
 | `2122` `[VS16]` | Trade Mark | 
