@@ -25,6 +25,11 @@ A *Private Use Area* or otherwise non-standard codepoint sequence made for Mutan
 ### Private Use Area (PUA)
 Unicode outlines sections of codepoints that are designated as 'private use' - this means anyone can claim them for their own non-standard encodings. Some of the largest historical use of PUAs has been used for scripts for constructed languages.
 
+Some of Mutant's unique emoji symbols and modifiers have been encoded in the SPUA plane, in block `1016xx`. This repository outlines what encodings have been made by the project in this area (and potentially subsequent blocks if `1016xx` is filled).
+
+PUA encodings in Unicode are inherently non-standard, there may be collisions that exist. There are also accessibility concerns too, such as operating systems not being able to describe codepoints in PUA areas to those who use screenreaders. Please take things like this into consideration when using any PUA encoding.
+
+
 ## shortcode 
 A string that represents an approachable and linguistic shorthand for people to input emoji in various platforms and software. Shortcodes are not universal across all emoji sets and/or platforms.
 
