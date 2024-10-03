@@ -15,7 +15,7 @@ While it is compatible with certain Unicode emoji and characters, both in intent
 ## Why a technical standard?
 - It enables as many people to benefit from Mutant emoji as much as possible.
 
-## Key points about Mutant Standard encodings
+## Key points about Mutant Standard
 - All people-based glyphs are gender-neutral.
 - All gendered Unicode emoji are not used.
 - Family and couple ZWJs (in planning - these emoji are not yet implemented) are not used in favour of letting people place different people together in any configuration they want.
