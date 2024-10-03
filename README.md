@@ -27,7 +27,7 @@ Optional, standardised extensions to Mutant Core.
 
 #### Mutant Spectrum
 Flags and symbols for the queer community.
-- [Non-standard ZWJs](spectrum/non_standard_zwj.md)
+- [Non-standard ZWJs](spectrum/zwj.md)
 - [Aliases](spectrum/aliases.md)
 
 ##### PUA codepoints
