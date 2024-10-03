@@ -1,8 +1,8 @@
 # Bundles
 
-Mutant since its inception was developed designed as one large set with some clear goals but a lot of fuzziness around the edges. In 2024, the decision was made to split the set and standard into **bundles** - discrete sections of emoji that can be combined together.
+Since its inception, Mutant was developed as one large set. It had some clear goals but a lot of fuzziness around the edges. In 2024, the decision was made to split the set and standard into **bundles** - discrete sections of emoji that can be combined together.
 
-Mutant has emoji symbols designed to cater to different groups of people. Not everyone wants or needs all of them. Furthermore, Mutant Form has a very high number of emoji because of its large number of modifier combinations which creates a substantial tradeoff in various situations. So bundles allow people to select what they need for their use case while still creating a consistent standard to facilitate those experiences.
+Mutant has emoji symbols designed to cater to different groups of people. Not everyone wants or needs all of them. Furthermore, **Mutant Form** has a very high number of emoji because of its large number of modifier combinations which creates a substantial tradeoff in various situations. So bundles allow people to select what they need for their use case while still creating a consistent standard to facilitate those experiences.
 
 ----
 
