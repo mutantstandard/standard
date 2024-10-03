@@ -26,7 +26,7 @@ This is the core set which other *communication extensions* can be used with.
 
 ### Communication extensions
 #### Mutant Spectrum
-The bundle that focuses on symbols and expressions for the queer community.
+Flags and symbols for the queer community.
 - [Non-standard ZWJs](spectrum/non_standard_zwj.md)
 - [Aliases](spectrum/aliases.md)
 
@@ -34,7 +34,7 @@ The bundle that focuses on symbols and expressions for the queer community.
 - [10167x - 10168x: Gender, Sexuality and Relationships](pua/10167x_10168x_gsr.md)
 
 #### Mutant Form
-Modifiers, symbols and expressions catering to furries and those who use non-human representations of themselves.
+Modifiers, symbols and expressions for furries and those who use non-human representations of themselves.
 ##### Modifiers
 - [Color modifiers](form/cm.md)
 - [Morph modifiers](form/mm.md)
