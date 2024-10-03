@@ -13,7 +13,7 @@ Mutant PUA encodings have been divided into various blocks:
 | `10166x` | [Nonhumans](/pua/10166x._nonhumans.md) | Mutant Form |
 | `10167x` | [Gender, Sexuality and Relationships](/pua/10167x_10168x_gsr.md) | Mutant Spectrum |
 | `10168x` | [Gender, Sexuality and Relationships](/pua/10167x_10168x_gsr.md) | Mutant Spectrum |
-| `10169x` | [Objects, Symbols and Expressions](/pua/10169x_objects_symbols.md) | TBD |
+| `10169x` | [Objects, Symbols and Expressions](/pua/10169x_objects_symbols.md) | Mixed |
 | `1016ax` | *undefined* |
 | `1016bx` | *undefined* |
 | `1016cx` | *undefined* |
