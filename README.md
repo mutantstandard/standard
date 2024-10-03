@@ -4,7 +4,7 @@
 
 This document outlines the encoding mechanics of various symbols within Mutant Standard, and what makes them differ (if any) from Unicode Standard.
 
-This is aimed at developers wishing to use Mutant emoji or Mutant Standard-compatible emoji in their apps as well as emoji designers who wish to make Mutant Standard-compatible emoji.
+This is aimed at developers wishing to use Mutant emoji or Mutant-compatible emoji in their apps as well as emoji designers who wish to make Mutant-compatible emoji.
 
 These documents are licensed MIT.
 
