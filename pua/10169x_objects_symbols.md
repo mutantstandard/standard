@@ -4,7 +4,7 @@ Assorted objects, symbols and expressions that have been encoded in Mutant's PUA
 
 Recently, I've been trying to standardise the use of various symbols, and with some exceptions, these do not neatly fit in with bundles and standards that I am trying to develop, so for now, they are in a weird space.
 
-| codepoint (U+) | Symbol name | Bundle |
+| codepoint (U+) | Mutant name | Bundle |
 | ---- | ---- | ---- |
 | `101690` | Flaming pile of poo with a shocked face | *TBD* |
 | `101691` | Cannabis leaf | *TBD* |

@@ -1,5 +1,24 @@
 # Terms
 
+## Mutant
+*Mutant* is the brand name of Mutant emoji and accompanying products such as Mutant Standard and Mutant Core.
+
+### Mutant emoji
+Emoji provided by Mutant that provides a developing, usable use case of the Mutant Standard.
+
+### Mutant Standard
+The technical standard for Mutant (comparable to what Unicode Standard is to Unicode), or in other words, the documents that you are reading right now. 
+
+Before late 2024, *Mutant Standard* also used to be the name of the entire project.
+
+### Mutant Standard emoji
+Other hypothetical emoji sets that are designed to work with the Mutant Standard.
+
+Before late 2024, *Mutant Standard emoji* used to be the name of *Mutant emoji*.
+
+----
+
+
 ## name
 Every standard unicode codepoint has an assigned name. This is a line of text in English describing what this codepoint is. This name is essentially a very brief description of how to design your own version of that character for your own fonts.
 
@@ -24,7 +43,7 @@ Traditional notation for Unicode codepoints is to add "U+" and then the hexadeci
 The codepoint sequence as it appears in the Unicode Standard.
 
 ### Mutant codepoint
-A *Private Use Area* or otherwise non-standard codepoint sequence made for Mutant's own standard.
+A *Private Use Area* or otherwise non-standard codepoint sequence made for Mutant Standard.
 
 ### Private Use Area (PUA)
 Unicode outlines sections of codepoints that are designated as 'private use' - this means anyone can claim them for their own non-standard encodings. Some of the largest historical use of PUAs has been used for scripts for constructed languages.
