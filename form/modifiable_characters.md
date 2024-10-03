@@ -2,8 +2,8 @@
 
 | codepoint(s) (U+) | name(s)          | MM modifiable? | CM modifiable? | 
 | ----              | ----             | ---- | ---- |
-| *n/a*             | All hand symbols (https://www.unicode.org/emoji/charts/emoji-list.html#people_&_body) | ✅ | ✅ |
-| *n/a*             | Body parts with exposed skin (https://www.unicode.org/emoji/charts/emoji-list.html#body-parts) | ❌ | ✅ |
+| *n/a*             | All hand symbols (https://www.unicode.org/emoji/charts/emoji-list.html#people_&_body) | ✅ | ✅, all valid combinations |
+| *n/a*             | Body parts with exposed skin (https://www.unicode.org/emoji/charts/emoji-list.html#body-parts) | ❌ | ✅, all |
 | `1f442`           | ear              | ❌ | ✅, all |
 | `1f988`           | ear with hearing aid             | ❌ | ✅, all |
 | `1f443`           | nose             | ❌ | ✅, all |
