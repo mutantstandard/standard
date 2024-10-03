@@ -13,10 +13,10 @@ Recently, I've been trying to standardise the use of various symbols, and with s
 | `101694` | 10-sided die in a pentagonal trapezohedron shape | *TBD* |
 | `101695` | 12-sided die in a dodecahedron shape | *TBD* |
 | `101696` | 20-sided die in an icosahedron shape | *TBD* |
-| `101697` | Relaxed face being patted on the head by a hand | *TBD* |
-| `101698` | Wolf howling  | Mutant Form |
-| `101699` | No howling wolves allowed | Mutant Form |
+| `101697` | Relaxed face being patted on the head by a hand ('headpats') | *TBD* |
+| `101698` | Wolf howling ('awoo') | Mutant Form |
+| `101699` | No howling wolves allowed ('don't awoo') | Mutant Form |
 | `10169a` | @ symbol enclosed in a prohibited sign | *TBD* |
 | `10169b` | Paw print | Mutant Form |
-| `10169c` | Cat face sticking its tongue out slightly | *TBD* |
+| `10169c` | Cat face sticking its tongue out slightly ('blep') | *TBD* |
 | `10169d` | An infinity symbol with a rainbow pattern masked inside (Neurodiversity symbol) | *TBD* | 
