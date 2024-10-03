@@ -9,12 +9,16 @@ The name of a codepoint as it appears in the Unicode Standard.
 ### Mutant name
 The name of a codepoint as it appears in Mutant's Standard. Mutant's use of codepoints and names follows Unicode's with some explicit deviations. When there is an explicit deviation, a non-standard sequence or involves Mutant's PUA, it has a **Mutant name**.
 
+----
+
 ## codepoint
-A number (represented in hexadecimal) that represents a single block of data in Unicode text encoding. As long as it's not in the Private Use Area, codepoints are generally 1:1 consistent across platforms and systems (as long as it has the software updates and/or fonts to display the characters that are being encoded).
+A number (represented in hexadecimal) that represents a single block of data in Unicode text encoding. 
+Sometimes an emoji is just defined by one codepoint, but many are defined by a *sequence* of codepoints (eg. `2764` `fe0f`).
 
-Traditional notation for Unicode codepoints is to add "U+" and then the hexadecimal number (eg. 'U+2764`). To save space and make documentation to read, all Mutant documentation skips this prefix ('2764').
+As long as it's not in the Private Use Area, codepoints are generally 1:1 consistent across platforms and systems (as long as it has the software updates and/or fonts to display the characters that are being encoded).
 
-Sometimes an emoji is just defined by one codepoint, but many are defined by a *sequence* of codepoints (eg. `2764` `fe0f`.)
+Traditional notation for Unicode codepoints is to add "U+" and then the hexadecimal number (eg. `U+2764`). To save space and make documentation to read, all Mutant documentation skips this prefix (`2764`).
+
 
 ### Unicode codepoint
 The codepoint sequence as it appears in the Unicode Standard.
@@ -29,6 +33,7 @@ Some of Mutant's unique emoji symbols and modifiers have been encoded in the SPU
 
 PUA encodings in Unicode are inherently non-standard, there may be collisions that exist. There are also accessibility concerns too, such as operating systems not being able to describe codepoints in PUA areas to those who use screenreaders. Please take things like this into consideration when using any PUA encoding.
 
+----
 
 ## shortcode 
 A string that represents an approachable and linguistic shorthand for people to input emoji in various platforms and software. Shortcodes are not universal across all emoji sets and/or platforms.
@@ -49,7 +54,21 @@ In typical emoji encoding, modifiers perform these functions:
 One of Mutant's design goals is for people who use nonhuman characters/personas/representations to have symbols that represent them better, so in **Mutant Form**, the idea of using skin tones has been greatly extended beyond what Unicode has created.
 
 
-## ZWJ
+### Color modifier (CM)
+Mutant's way of saying that a character modifies the colour of the character before it.
+
+For names and shortcodes, Mutant Standard takes a naming system for CMs inspired by professional marker pens. Each colour is a combination of alphanumeric characters, starting with one or more letters and ending in a number. The starting letter(s) indicate the group the colour is in.
+
+In conversation and UI, the letters are always uppercase, but for shortcodes, they are always in lowercase.
+
+The number currently indicates the brightness of the colour, as if it were in HSL colour representation - lower numbers are darker, higher numbers are lighter.
+
+
+### Morph modifier (MM)
+Mutant's way of saying that a character modifies the geometric appearance of the character before it.
+
+
+### ZWJ
 **Zero-width joiner**. It is a modifier that contextually joins the characters on either side.
 
 This was originally developed for scripts such as Arabic or Indic scripts, but this has also been used in emoji. In emoji it generally means 'take these two symbols and combine them into a single new symbol'. They are often used to make certain symbols look a bit more backwards compatible to devices that don't support the emoji in question.
@@ -59,7 +78,7 @@ In Unicode, the codepoint for a ZWJ is `200d`. To make ZWJs semantically obvious
 [More information on ZWJs from Wikipedia](https://en.wikipedia.org/wiki/Zero-width_joiner)
 
 
-## VS16
+### VS16
 **Variation Selector 16**.
 
 In Unicode, a Variation Selector is a modifier indicating how the previous character should be depicted. There are 16 different Variation Selectors. Number 16 indicates that the character before is supposed to be an emoji.

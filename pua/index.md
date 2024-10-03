@@ -9,7 +9,7 @@ Mutant PUA encodings have been divided into various blocks:
 | `10162x` | [Color Modifiers](/pua/10160x_10164x_cm.md) | Mutant Form |
 | `10163x` | [Color Modifiers](/pua/10160x_10164x_cm.md) | Mutant Form |
 | `10164x` | [Color Modifiers](/pua/10160x_10164x_cm.md) | Mutant Form |
-| `10165x` | [Morphology Modifiers](/pua/10165x_mm.md) | Mutant Form |
+| `10165x` | [Morph Modifiers](/pua/10165x_mm.md) | Mutant Form |
 | `10166x` | [Nonhumans](/pua/10166x._nonhumans.md) | Mutant Form |
 | `10167x` | [Gender, Sexuality and Relationships](/pua/10167x_10168x_gsr.md) | Mutant Spectrum |
 | `10168x` | [Gender, Sexuality and Relationships](/pua/10167x_10168x_gsr.md) | Mutant Spectrum |

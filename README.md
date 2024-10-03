@@ -7,6 +7,7 @@ This document outlines the encoding mechanics of various symbols within Mutant e
 These documents are licensed MIT.
 
 ## General
+- [Intro](intro.md)
 - [Terms](terms.md)
 - [PUA encodings](/pua/index.md)
 
@@ -38,7 +39,7 @@ Modifiers, symbols and expressions catering to furries and those who use non-hum
 
 ##### PUA codepoints
 - [10160x - 10164x: Color Modifiers](pua/10160x_10164x_cm.md)
-- [10165x: Morphology Modifiers](pua/10165x_mm.md)
+- [10165x: Morph Modifiers](pua/10165x_mm.md)
 - [10166x: Nonhumans](pua/10166x._nonhumans.md)
 - [10169x: Objects, Symbols and Expressions](pua/10169x_objects_symbols.md)
 

@@ -1,10 +1,10 @@
-# Color Modifiers
+# Color Modifiers (CMs)
 
 These are the only CMs available in the **Mutant Core** bundle. These are the standard Unicode skin tones introduced in 2015 with some differences in shortcode notation and descriptions to provide seamless integration with **Mutant Form**.
 
 The original descriptions of these skin tones was based on the Fitzpatrick scale, which is biased and flawed. As a result, Mutant describes them in more generic terms.
 
-Note that because of the way Mutant notes the lightness of a colour, the shortcodes run in the opposite order to the codepoints. When implementing these in an interface, follow the shortcode order (h1-h5).
+Note that because of the way Mutant notes the lightness of a colour, the shortcodes run in the opposite order to the codepoints. **When implementing these in an interface, follow the shortcode order (h1-h5).**
 
 | Unicode codepoint (U+) | Mutant shortcode | Mutant name |
 | ---- | ---- | ---- |
