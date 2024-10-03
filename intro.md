@@ -14,4 +14,4 @@ Various Unicode emoji characters are altered or ignored entirely and there are m
 ## Key points about Mutant Standard
 - All people-based glyphs are gender-neutral.
 - All gendered Unicode emoji are not used.
-- Family and couple ZWJs (in planning - these emoji are not yet implemented) are not used in favour of letting people place different people together in any configuration they want.
+- Family and couple ZWJs are not used in favour of letting people place different people together in any configuration they want.
