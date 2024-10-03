@@ -11,10 +11,10 @@ The technical standard for Mutant (comparable to what Unicode Standard is to Uni
 
 Before late 2024, *Mutant Standard* also used to be the name of the entire project.
 
-### Mutant Standard emoji
+### Mutant Standard compatible emoji
 Other hypothetical emoji sets that are designed to work with the Mutant Standard.
 
-Before late 2024, *Mutant Standard emoji* used to be the name of *Mutant emoji*.
+Not to be confused with *Mutant Standard emoji*, which used to be the name of *Mutant emoji* before late 2024.
 
 ----
 
